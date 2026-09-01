@@ -31,4 +31,4 @@ Create a Node.js program that displays personal introduction.
 ![Task 1 Screenshot](1.png)
 
 **Task 2 Output Screenshot:**
-![Task 2 Screenshot](2.png)
+![Task 2 Screenshot](3.png)
