@@ -28,7 +28,7 @@ Create a Node.js program that displays personal introduction.
 *(Please replace these placeholders with actual screenshots of your terminal output)*
 
 **Task 1 Output Screenshot:**
-![Task 1 Screenshot](1.png)
+![Task 1 Screenshot](2.png)
 
 **Task 2 Output Screenshot:**
 ![Task 2 Screenshot](3.png)
