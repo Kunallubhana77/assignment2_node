@@ -1,3 +1,0 @@
-Name: Kunal
-Course: Full Stack Development
-Technology: Node.js
